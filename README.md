@@ -1,6 +1,6 @@
 # Test for softair
 
-A new Flutter project.
+A new Flutter project, making some flutter front end in a span of 2 hours
 
 ## Getting Started
 
